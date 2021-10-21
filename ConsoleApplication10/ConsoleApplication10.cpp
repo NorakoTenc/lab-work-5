@@ -28,5 +28,5 @@ int main()
 			f = x / (-c + 2); 
 		}
 	}
-	cout<<"F= "<< f;
+	printf("F= %lf", f);
 }
