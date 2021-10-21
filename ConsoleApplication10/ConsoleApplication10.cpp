@@ -4,8 +4,8 @@
 #include "windows.h"
 
 using namespace std;
+//comment in Visual studio
 int main()
-//i'll be back
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
