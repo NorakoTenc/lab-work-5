@@ -1,9 +1,11 @@
-﻿#include <iostream>
+﻿
+#include <iostream>
 #include "math.h"
 #include "windows.h"
 
 using namespace std;
 int main()
+//i'll be back
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
