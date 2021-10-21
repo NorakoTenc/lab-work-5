@@ -28,5 +28,5 @@ int main()
 			f = x / (-c + 2); 
 		}
 	}
-	printf("F= %lf", f);
+	printf("fF= %lf", f);
 }
